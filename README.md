@@ -9,7 +9,7 @@ C51 core board circuit design, this is atguigu's EDA course homework, you can us
 尚硅谷嵌入式之原理图：https://www.bilibili.com/video/BV1AT421Y7DS/
 
 # File Directory Description
-
+```
 ├─Hardware
 │  ├─Release
 │  │  ├─Gerber_PCB1_2025-03-11.zip       [Gerber file]
@@ -19,7 +19,9 @@ C51 core board circuit design, this is atguigu's EDA course homework, you can us
 ├─Image                        [Markdown image storage path]
 └─PCB 3D Model
    └─3D_PCB1_2025-03-11.zip    [Circuit 3D model file]
+
 (Please use [lc EDA](https://lceda.cn/) to open the source file)
+```
 
 # Color silk screen
 
