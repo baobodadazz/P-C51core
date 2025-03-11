@@ -6,7 +6,7 @@ C51 core board circuit design, this is atguigu's EDA course homework, you can us
 
 # Tutorial Videos
 
-![尚硅谷嵌入式之原理图](https://www.bilibili.com/video/BV1AT421Y7DS/)
+尚硅谷嵌入式之原理图：https://www.bilibili.com/video/BV1AT421Y7DS/
 
 # File Directory Description
 
